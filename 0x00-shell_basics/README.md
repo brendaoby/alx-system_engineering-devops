@@ -5,3 +5,4 @@
 *4-Display current directory contents, including hidden files in long format*
 *5-Displays current directory contents, including hidden files in long format with user and group IDs displayed numerically*
 *6-Creates /my_first_directory in the /tmp/ directory*
+*7-Moves betty from /tmp/ to /tmp/my_first_directory*
