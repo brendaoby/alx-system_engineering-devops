@@ -12,3 +12,4 @@
 *11-Lists all files including hidden in the current directory and the parent of the working directory and the /boot directory*
 *12-Prints the type of the file named iamafile in /tmp*
 *13-Creates a symbolic link to /bin/ls, named __ls__*
+*14-Creates a script that copies all the HTML files from the current working directory to the parent of the working directory*
