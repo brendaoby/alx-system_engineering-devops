@@ -7,3 +7,4 @@
 *6-Creates /my_first_directory in the /tmp/ directory*
 *7-Moves betty from /tmp/ to /tmp/my_first_directory*
 *8-Deletes betty*
+*9-Deletes my_first_directory from the /tmp directory*
