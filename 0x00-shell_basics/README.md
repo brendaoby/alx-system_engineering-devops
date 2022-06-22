@@ -4,3 +4,4 @@
 *3-Display current directory contents in a long format*
 *4-Display current directory contents, including hidden files in long format*
 *5-Displays current directory contents, including hidden files in long format with user and group IDs displayed numerically*
+*6-Creates /my_first_directory in the /tmp/ directory*
