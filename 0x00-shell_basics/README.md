@@ -9,3 +9,4 @@
 *8-Deletes betty*
 *9-Deletes my_first_directory from the /tmp directory*
 *10-Changes the working directory to the previous one*
+*11-Lists all files including hidden in the current directory and the parent of the working directory and the /boot directory*
