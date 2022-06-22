@@ -8,3 +8,4 @@
 *7-Moves betty from /tmp/ to /tmp/my_first_directory*
 *8-Deletes betty*
 *9-Deletes my_first_directory from the /tmp directory*
+*10-Changes the working directory to the previous one*
