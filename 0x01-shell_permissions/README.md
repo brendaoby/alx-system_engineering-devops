@@ -12,4 +12,7 @@
 *11-Adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users*
 *12-Creates a directory called my_dir with permissions 751 in the working directory*
 *13-Changes the group owner to school for the file hello*
-*14-Changes the owner to vincent and the group owner to staff for all the files and directories in the working directory*
+*100-Changes the owner to vincent and the group owner to staff for all the files and directories in the working directory*
+*101-Changes the owner and the group owner of _hello to vincent and staff respectively*
+*102-Changes the owner of the file hello to betty only if it is owned by the user guillaume*
+*103-Plays StarWars IV episode in the terminal*
