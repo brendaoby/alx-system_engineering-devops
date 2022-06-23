@@ -3,3 +3,4 @@
 *2-Prints all the groups the current user is part of*
 *3-Makes betty the owner of hello*
 *4-Creates an empty file called hello*
+*5-Adds execute permission to the owner of the file hello*
