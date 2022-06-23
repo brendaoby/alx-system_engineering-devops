@@ -7,3 +7,4 @@
 *6-Adds execute permission to the owner and the group owner, and read permission to other users, to the file hello*
 *7-Adds execution permission to the owner, the group owner and the other users, to the file hello*
 *8-Removing permissions from owner and group and granting permissions to everyone else*
+*9-Sets the mode of the file hello to 753*
