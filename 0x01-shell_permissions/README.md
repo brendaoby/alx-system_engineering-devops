@@ -9,3 +9,4 @@
 *8-Removing permissions from owner and group and granting permissions to everyone else*
 *9-Sets the mode of the file hello to 753*
 *10-Sets the mode of the file hello the same as olleh’s mode*
+*11-Adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users*
