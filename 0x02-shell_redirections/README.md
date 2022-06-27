@@ -21,3 +21,4 @@
 *20-Create a script that removes all letters c and C from inpu*
 *21-Reverses its input*
 *22-Displays all users and their home directories, sorted by users*
+*100-Empties files and directories in the current directory and all sub-directorie*
