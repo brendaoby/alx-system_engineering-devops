@@ -8,3 +8,4 @@
 *7-Creating file*
 *8-Writing the result of the command ls -la into ls_cwd_content*
 *9-Duplicates the last line of iacta*
+*10-Deletes all .js files in current directory*
