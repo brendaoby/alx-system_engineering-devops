@@ -2,4 +2,5 @@
 *1-Displays a confused smiley*
 *2-Displays the content of /etc/passwd*
 *3-Displays the contents of two files passwd and host*
-*Displays the last ten lines of /etc/passwd*
+*4-Displays the last ten lines of /etc/passwd*
+*5-Displays the first ten lines of /etc/passwd*
