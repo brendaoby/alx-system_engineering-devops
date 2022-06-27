@@ -11,3 +11,4 @@
 *10-Deletes all .js files in current directory*
 *11-Counts the number of directories and subdirectories in current directory*
 *12-Displays the 10 newest files in the current directory*
+*13-Prints only words that appear exactly once from an input*
