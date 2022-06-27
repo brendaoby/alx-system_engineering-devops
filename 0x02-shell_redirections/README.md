@@ -19,3 +19,4 @@
 *18-Display all lines of the file /etc/ssh/sshd_config starting with a letter*
 *19-*
 *20-Create a script that removes all letters c and C from inpu*
+*21-Reverses its input*
