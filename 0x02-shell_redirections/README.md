@@ -22,3 +22,4 @@
 *21-Reverses its input*
 *22-Displays all users and their home directories, sorted by users*
 *100-Empties files and directories in the current directory and all sub-directorie*
+*101-Lists all the files with a .gif extension in the current directory and all its sub-directories*
