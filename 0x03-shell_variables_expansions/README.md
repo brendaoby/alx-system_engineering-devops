@@ -12,3 +12,4 @@
 *11- Converts value in BINARY to base 10*
 *12- Prints all possible combinations of two letters, except oo*
 13- Prints a number with two decimal places*
+*100- Converts a number from base 10 to base 16*
