@@ -11,7 +11,8 @@
 *10- Displays the result of BREATH to the power LOVE*
 *11- Converts value in BINARY to base 10*
 *12- Prints all possible combinations of two letters, except oo*
-13- Prints a number with two decimal places*
+*13- Prints a number with two decimal places*
 *100- Converts a number from base 10 to base 16*
 *101- Decodes text using the rot13 encryption*
 *102- Prints every other line from the input, starting with the first line*
+*103- Adds the two numbers stored in the environment variables WATER and STIR and prints the result*
