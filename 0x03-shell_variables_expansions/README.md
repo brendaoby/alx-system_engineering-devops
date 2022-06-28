@@ -10,3 +10,4 @@
 *9- Prints the result of POWER divided by DIVIDE*
 *10- Displays the result of BREATH to the power LOVE*
 *11- Converts value in BINARY to base 10*
+*12- Prints all possible combinations of two letters, except oo*
