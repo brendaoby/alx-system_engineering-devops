@@ -1,5 +1,5 @@
 # Loops, conditions and parsing
-Project done during **Full Stack Software Engineering** at **ALX** to practice loops (`while`, `until` and `for`), condition statements (`if`, `else`, `elif` and `case`), shebangs and how to create SSH keys with **Bash**.
+Project done during **Full Stack Software Engineering** at **ALX** to practice using loops (`while`, `until` and `for`), condition statements (`if`, `else`, `elif` and `case`), shebangs and how to create SSH keys with **Bash**.
 
 ## Files
 | Filename | Description |
